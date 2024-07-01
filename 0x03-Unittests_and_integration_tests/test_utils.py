@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 '''
-This module contains the test for the utils module 
+This module contains the test for the utils module
 '''
 from parameterized import parameterized
 from utils import access_nested_map, get_json, memoize
